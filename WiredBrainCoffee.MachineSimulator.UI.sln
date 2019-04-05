@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiredBrainCoffee.MachineSimulator.UI", "WiredBrainCoffee.MachineSimulator.UI\WiredBrainCoffee.MachineSimulator.UI.csproj", "{4E79338C-7D75-40E4-B8D9-1EEB0FE696B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiredBrainCoffee.EventHub.Sender", "WiredBrainCoffee.EventHub.Sender\WiredBrainCoffee.EventHub.Sender.csproj", "{B8744C79-F49F-4DFD-AD90-530F767FF816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E79338C-7D75-40E4-B8D9-1EEB0FE696B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E79338C-7D75-40E4-B8D9-1EEB0FE696B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E79338C-7D75-40E4-B8D9-1EEB0FE696B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E79338C-7D75-40E4-B8D9-1EEB0FE696B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8744C79-F49F-4DFD-AD90-530F767FF816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8744C79-F49F-4DFD-AD90-530F767FF816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8744C79-F49F-4DFD-AD90-530F767FF816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8744C79-F49F-4DFD-AD90-530F767FF816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB527359-78F6-4663-A337-AE998A99A305}
+	EndGlobalSection
+EndGlobal
